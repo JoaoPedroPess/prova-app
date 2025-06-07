@@ -29,7 +29,7 @@ export default function UserDetail() {
     );
 }
 
-/*Este componente:
+/*Este componente faz:
 
 Lê o id da URL (como /dados/2);
 
