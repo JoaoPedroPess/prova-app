@@ -16,7 +16,7 @@ function App() {
 /*
 Isso define que:
 
-Quando acessar /usuarios, será exibido o componente <UserList />
+Quando acessar /usuarios, será exibido o componente <UserList />, listando os usuários.
 
 Quando acessar /dados/1, será exibido o componente <UserDetail /> com o id como parâmetro.
 */
