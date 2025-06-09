@@ -20,7 +20,7 @@ app.get('/dados/:id', (req, res) => {
   res.json(user);
 });
 
-const PORT = 3001;
+const PORT = 3002;
 app.listen(PORT, () => {
   console.log(`API rodando na porta ${PORT}`);
 });

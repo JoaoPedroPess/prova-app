@@ -1,4 +1,6 @@
 [
     {"id": 1, "name": "Joao Pedro", "email": "joaopedropess03@gmail.com", "bio": "Amante do futebol e tecnologia."},
-    {"id": 2, "name": "Hellen", "email": "andradehellen@gmail.com", "bio": "Apaixonada por moda e viagens."}
+    {"id": 2, "name": "Hellen", "email": "andradehellen@gmail.com", "bio": "Apaixonada por gatos e festas."},
+    {"id": 3, "name": "Gabriela", "email": "gabipess@gmail.com", "bio": "Cirurgiã dentista e influencer digital"},
+    {"id": 4, "name": "Vó Salete", "email": "vosalete@gmail.com", "bio": "Aposentada, amante de flores e culinária"}
 ]
