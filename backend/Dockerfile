@@ -8,8 +8,8 @@ COPY package*.json ./
 RUN npm install 
 #5. Copia o restante dos arquivos da aplicação para o diretório de trabalho
 COPY . .
-#6. Expõe a porta 3001 para acesso externo
-EXPOSE 3001
+#6. Expõe a porta 3002 para acesso externo
+EXPOSE 3002
 #7. Define o comando para iniciar a aplicação
 CMD ["node", "index.js"]
 
