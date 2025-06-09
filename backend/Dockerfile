@@ -13,3 +13,4 @@ EXPOSE 3002
 #7. Define o comando para iniciar a aplicação
 CMD ["node", "index.js"]
 
+
